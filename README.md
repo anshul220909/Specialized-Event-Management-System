@@ -1,3 +1,12 @@
+Documentaion link---https://1drv.ms/x/c/a7eca628f8ec68f5/EbRYiMEeDCJItdBKB50ZX-QBFely3C2ocjLg6cOWXPNuqg?e=Ugcuye
+
+
+
+
+
+
+
+
 Problem Statement — Event Management System in Salesforce
 
 Managing events manually is time-consuming and error-prone. Event organizers face challenges such as:
